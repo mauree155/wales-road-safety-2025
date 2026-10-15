@@ -41,3 +41,8 @@ Six charts in `charts/`, produced with SAS PROC SGPLOT. Red marks the group with
 
 ## Poster
 The A2 poster PDF will be added to `poster/` after submission.
+
+## Licence
+- **Code** (`scripts/`): MIT License, see `LICENSE`.
+- **Data** (`data/`): derived from Department for Transport STATS19 data. Contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+- **Charts and poster** (`charts/`, `poster/`): [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
